@@ -1,0 +1,25 @@
+body {
+  background-color: hsl(220, 15%, 55%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper {
+  background-color: hsl(0, 0%, 100%);
+  width: 250px;
+  height: 400px;
+  margin: 150px 600px 150px 606px;
+  border-radius: 12px;
+}
+
+.container {
+  text-align: center;
+}
+
+img{
+    width: 213px;
+    /* margin-top: 17px; */
+    padding: 16px;
+    border-radius: 35px;
+}
